@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Client connecting to node0, UDP port 5001 with pid 8674 (1 flows)
+TOS set to 0x0 (Nagle on)
+Sending 1470 byte datagrams, IPG target: 3.92 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.10.1.2%enp94s0f1 port 48738 connected with 10.10.1.1 port 5001 (sock=3) on 2024-02-06 09:53:57 (CST)
+[ ID] Interval            Transfer     Bandwidth      Write/Err  PPS
+[  1] 0.0000-1.0000 sec   358 MBytes  3.00 Gbits/sec  0/0   255126 pps
+[  1] 1.0000-2.0000 sec   358 MBytes  3.00 Gbits/sec  0/0   255090 pps
+[  1] 2.0000-3.0000 sec   358 MBytes  3.00 Gbits/sec  0/0   255056 pps
+[  1] 3.0000-4.0000 sec   358 MBytes  3.00 Gbits/sec  0/0   255153 pps
+[  1] 4.0000-5.0000 sec   355 MBytes  2.98 Gbits/sec  0/0   253479 pps
+[  1] 5.0000-6.0000 sec   360 MBytes  3.02 Gbits/sec  0/0   256686 pps
+[  1] 6.0000-7.0000 sec   357 MBytes  3.00 Gbits/sec  0/0   254948 pps
+[  1] 7.0000-8.0000 sec   356 MBytes  2.99 Gbits/sec  0/0   253976 pps
+[  1] 8.0000-9.0000 sec   359 MBytes  3.01 Gbits/sec  0/0   256193 pps
+[  1] 9.0000-10.0000 sec   358 MBytes  3.00 Gbits/sec  0/0   255323 pps
+[  1] 0.0000-10.0000 sec  3.49 GBytes  3.00 Gbits/sec  0/0   255103 pps
+[  1] Sent 2551034 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-10.0000 sec  3.44 GBytes  2.95 Gbits/sec   0.004 ms 40242/2551033 (1.6%)
