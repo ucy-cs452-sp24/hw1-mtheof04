@@ -6,7 +6,7 @@
 In this assignment, we analyzed memory and storage within a data center using the CloudLab cluster at the University of Wisconsin. The cluster features two c220g5 nodes.
 
 
-![Graph](Graph.jpg)
+![Graph](Graph.png)
 
 ### Capacity (GB)
 Both nodes have 196 GB of Local DRAM and 480 GB of Local Disk space.
